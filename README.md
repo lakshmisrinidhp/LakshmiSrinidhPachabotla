@@ -21,9 +21,11 @@
 
 ### 🌟 **About Me**
 
-- 💻 A passionate **Software Engineer** focused on **AI**, **Python**, **Distributed Systems**, and **Full-Stack Development**.
-- 🌱 Currently working on projects related to **Advanced Data Mining** and **Distributed Artificial Intelligence and Its Intelligent Agents**.
-- 🔍 Constantly learning and striving to make technology accessible and impactful.
+- 💻With experience in technologies like Python, Java, React.js, and Erlang, I have worked on diverse projects ranging from building scalable web applications to implementing distributed systems. I am always eager to learn and explore new tools and frameworks, continuously pushing my skills to new heights. Currently working on projects related to **Advanced Data Mining** and **Distributed Artificial Intelligence and Its Intelligent Agents**. Hard work and commitment are at the core of everything I do, and I take pride in delivering solutions that make a real-world impact.
+
+In addition to coding, I am deeply interested in AI, cloud computing, and data-driven solutions, and I strive to stay at the forefront of advancements in these fields. Constantly learning and striving to make technology accessible and impactful. My ultimate goal is to create technology that simplifies lives and drives meaningful change. Welcome to my portfolio, where I showcase the work I love doing!.
+ 
+
 
 ---
 
