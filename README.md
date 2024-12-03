@@ -56,12 +56,12 @@
 
 ###  **Professional Experience**
 
-- **Host for Career Fair, THS Armada, KTH University**    
+- **Host for Career Fair - THS Armada, KTH University**    
   - Organized Sweden's largest student-run career fair with over 200 companies.
   - Coordinated with industry representatives to ensure smooth event logistics.
   - Enhanced corporate engagement strategies, increasing participation by 10%.
 
-- **Board Member & Software Engineer, Association of Engineering Students in Rocketry**
+- **Board Member & Software Engineer - Association of Engineering Students in Rocketry**
   - Designed a Ground Control Box for real-time monitoring of critical rocket subsystems, integrating a Raspberry Pi 7" Touch Screen LCD with an ST32 MCU-based PCB.
   - Developed a robust interface to monitor NOX vent status, temperature (thermocouples), and pressure/weight (load cells).
   - Created a detailed wiring diagram for seamless integration of sensors, ensuring minimal interference.
