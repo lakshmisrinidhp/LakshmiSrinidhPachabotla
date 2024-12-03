@@ -1,7 +1,7 @@
 <!-- Welcome Banner -->
 <h1 align="center">✨ Welcome to My GitHub Profile! ✨</h1>
 <p align="center">
-  <img src="https://github.com/lakshmisrinidhp/your-photo.jpg" alt="Lakshmi Srinidh Pachabotla" width="150" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/lakshmisrinidhp/assets/main/profile_picture.jpg" alt="Lakshmi Srinidh Pachabotla" width="150" style="border-radius: 50%;">
 </p>
 
 ---
@@ -52,21 +52,29 @@
 
 ---
 
-### 📬 **Let’s Connect!**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshmisrinidhpachabotla/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:lakshmisrinidhpachabotla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+### 💡 **Keep Growing, Keep Building!**
+<div align="center">
+  <p>
+    🌱 <strong>Growth isn’t just about learning new things, but about transforming what you learn into action.</strong>
+  </p>
+  <p>
+    🔨 <em>With every challenge, you build resilience; with every line of code, you build the future.</em>
+  </p>
+  <p>
+    🚀 <strong>Keep growing. Keep building. The world is waiting for what you create!</strong>
+  </p>
+  <img src="https://raw.githubusercontent.com/lakshmisrinidhp/assets/main/keep_building.gif" alt="Keep Growing, Keep Building" width="400">
+</div>
 
 ---
 
-### 🚀 **Keep Growing, Keep Building!**
+### 📬 **Let’s Connect!**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url/growth.gif" alt="Keep Growing" width="400">
+  <a href="https://linkedin.com/in/lakshmi-srinidh-pachabotla">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lakshmi.srinidh@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
