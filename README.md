@@ -49,24 +49,25 @@
 
 | 🚀 **Project**                     | ✨ **Description**                                                                                     | 🌐 **Live Repo**                             |
 |------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| 🍹 **Here’s The Drink**            | A beverage recommendation app using Python and Flask to enhance decision-making at events and venues. | [View Repository](https://github.com/lakshmisrinidhp/HeresTheDrink) |
-| 🎵 **MMSE Final Project**          | Developed a robust solution for signal processing challenges as part of the MMSE course project.      | [View Repository](https://github.com/lakshmisrinidhp/MMSE_FINAL_PROJECT) |
+| 🍹 **Here’s The Drink**            | A Java-based Android app for drink exploration and management with Firebase for real-time data and notifications. | [View Repository](https://github.com/lakshmisrinidhp/HeresTheDrink) |
+| 🎵 **MMSE Final Project**          | An event management system built with Python (Flask), HTML featuring role-based dashboards, task assignments, and financial approvals.      | [View Repository](https://github.com/lakshmisrinidhp/MMSE_FINAL_PROJECT) |
 
 ---
 
-### 💡 **Keep Growing, Keep Building!**
-<div align="center">
-  <p>
-    🌱 <strong>Growth isn’t just about learning new things, but about transforming what you learn into action.</strong>
-  </p>
-  <p>
-    🔨 <em>With every challenge, you build resilience; with every line of code, you build the future.</em>
-  </p>
-  <p>
-    🚀 <strong>Keep growing. Keep building. The world is waiting for what you create!</strong>
-  </p>
-  <img src="https://raw.githubusercontent.com/lakshmisrinidhp/assets/main/keep_building.gif" alt="Keep Growing, Keep Building" width="400">
-</div>
+###  **Professional Experience**
+
+- **Host for Career Fair, THS Armada, KTH University**    
+  - Organized Sweden's largest student-run career fair with over 200 companies.
+  - Coordinated with industry representatives to ensure smooth event logistics.
+  - Enhanced corporate engagement strategies, increasing participation by 10%.
+
+- **Board Member & Software Engineer, Association of Engineering Students in Rocketry**
+  - Designed a Ground Control Box for real-time monitoring of critical rocket subsystems, integrating a Raspberry Pi 7" Touch Screen LCD with an ST32 MCU-based PCB.
+  - Developed a robust interface to monitor NOX vent status, temperature (thermocouples), and pressure/weight (load cells).
+  - Created a detailed wiring diagram for seamless integration of sensors, ensuring minimal interference.
+  - Optimized the system using a plastic enclosure for better performance and durability. Improved safety and operational efficiency through an intuitive design and real-time data visualization.
+
+
 
 ---
 
