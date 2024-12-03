@@ -1,7 +1,7 @@
 <!-- Welcome Banner -->
 <h1 align="center">✨ Welcome to My GitHub Profile! ✨</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lakshmisrinidhp/assets/main/profile_picture.jpg" alt="Lakshmi Srinidh Pachabotla" width="150" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/lakshmisrinidhp/assets/main/IMG_5048.jpg" alt="Lakshmi Srinidh Pachabotla" width="150" style="border-radius: 50%;">
 </p>
 
 ---
@@ -21,8 +21,8 @@
 
 ### 🌟 **About Me**
 
-- 💻 A passionate **Software Engineer** focused on **AI**, **Distributed Systems**, and **Full-Stack Development**.
-- 🌱 Currently working on projects related to **event management** and **signal processing**.
+- 💻 A passionate **Software Engineer** focused on **AI**, **Python**, **Distributed Systems**, and **Full-Stack Development**.
+- 🌱 Currently working on projects related to **Advanced Data Mining** and **Distributed Artificial INtelligence and Its Inteeligent Agents**.
 - 🔍 Constantly learning and striving to make technology accessible and impactful.
 
 ---
