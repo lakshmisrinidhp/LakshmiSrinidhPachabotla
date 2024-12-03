@@ -1,7 +1,7 @@
 <!-- Welcome Banner -->
 <h1 align="center">✨ Welcome to My GitHub Profile! ✨</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url/banner.gif" alt="Welcome Banner" width="600">
+  <img src="https://github.com/lakshmisrinidhp/your-photo.jpg" alt="Lakshmi Srinidh Pachabotla" width="150" style="border-radius: 50%;">
 </p>
 
 ---
@@ -21,9 +21,9 @@
 
 ### 🌟 **About Me**
 
-- 💻 A passionate **Software Engineer** focused on **AI**, **Machine Learning**, and **Distributed Systems**.
-- 🌱 Constantly learning and applying the latest technologies in **event management**, **fintech**, and **electric mobility**.
-- 🔍 Fascinated by the intersection of **technology** and **making lives better.**
+- 💻 A passionate **Software Engineer** focused on **AI**, **Distributed Systems**, and **Full-Stack Development**.
+- 🌱 Currently working on projects related to **event management** and **signal processing**.
+- 🔍 Constantly learning and striving to make technology accessible and impactful.
 
 ---
 
@@ -32,8 +32,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -41,34 +43,16 @@
 
 ---
 
-### 🏆 **My Projects**
+### 🚀 **Featured Projects**
 
-| 🚀 **Project** | ✨ **Description** | 🌐 **Live Demo / Repo** |
-|----------------|--------------------|-------------------------|
-| 🗃️ **Fault-Tolerant Distributed Hash Table** | Implemented node stabilization, failure handling, and key-value management using the Chord protocol. | [View Repository](https://github.com/LakshmiSrinidhPachabotla/Chord-DHT) |
-| 🎭 **Event Management Web App** | A full-stack app using Flask and React.js for managing events seamlessly. | [View Repository](https://github.com/LakshmiSrinidhPachabotla/Event-Manager) |
-| 🎉 **GAMA Festival Simulation** | Simulated festival environments with agent-based models representing stores, guests, and more. | [View Repository](https://github.com/LakshmiSrinidhPachabotla/GAMA-Simulation) |
-
----
-
-### 📈 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshmiSrinidhPachabotla&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmiSrinidhPachabotla&layout=compact&theme=tokyonight" alt="Top Languages" height="200px"/>
-</div>
+| 🚀 **Project**                     | ✨ **Description**                                                                                     | 🌐 **Live Repo**                             |
+|------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| 🍹 **Here’s The Drink**            | A beverage recommendation app using Python and Flask to enhance decision-making at events and venues. | [View Repository](https://github.com/lakshmisrinidhp/HeresTheDrink) |
+| 🎵 **MMSE Final Project**          | Developed a robust solution for signal processing challenges as part of the MMSE course project.      | [View Repository](https://github.com/lakshmisrinidhp/MMSE_FINAL_PROJECT) |
 
 ---
 
-### ✨ **Fun Facts**
-- 🌍 **Explorer**: I love discovering new places and capturing their beauty through **photography**.
-- 📚 **Bibliophile**: Reading inspires my creativity and broadens my perspective.
-- 🍳 **Chef-in-the-Making**: Cooking is my happy place.
-- 🚀 **Dreamer**: My fascination with rockets led me to pursue a career in **technology**.
-
----
-
-### 💌 **Let’s Connect!**
+### 📬 **Let’s Connect!**
 
 <p align="center">
   <a href="https://linkedin.com/in/lakshmi-srinidh-pachabotla">
