@@ -51,8 +51,8 @@
 |------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | 🍹 **Here’s The Drink**            | A Java-based Android app for drink exploration and management with Firebase for real-time data and notifications. | [View Repository](https://github.com/lakshmisrinidhp/HeresTheDrink) |
 | 🎵 **MMSE Final Project**          | An event management system built with Python (Flask), HTML featuring role-based dashboards, task assignments, and financial approvals.      | [View Repository](https://github.com/lakshmisrinidhp/MMSE_FINAL_PROJECT) |
-| 🍹 **Here’s The Drink**            | A Java-based Android app for drink exploration and management with Firebase for real-time data and notifications. | [View Repository](https://github.com/lakshmisrinidhp/HeresTheDrink) |
-| 🎵 **MMSE Final Project**          | An event management system built with Python (Flask), HTML featuring role-based dashboards, task assignments, and financial approvals.      | [View Repository](https://github.com/lakshmisrinidhp/MMSE_FINAL_PROJECT) |
+| 🍹 **Data Mining**            | Implemented advanced data mining techniques including Jaccard Similarity, A-Priori algorithm, and streaming graph processing to analyze and optimize large datasets. Developed scalable solutions for text similarity, frequent itemsets, real-time graph analysis, clustering, and distributed graph partitioning. | [View Repository](https://github.com/lakshmisrinidhp/Data_Mining---ID_2222.git) |
+| 🎵 **Distributed Systems**          | Developed scalable distributed systems in Erlang, including a fault-tolerant Distributed Hash Table (DHT) using the Chord protocol for efficient data storage and retrieval. Implemented Lamport clocks for event ordering and a group membership service ensuring reliable message delivery, leader election, and system consistency.      | [View Repository](https://github.com/lakshmisrinidhp/Distributed_Systems---ID_2201-.git) |
 
 ---
 
