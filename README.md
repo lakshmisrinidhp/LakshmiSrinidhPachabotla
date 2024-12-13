@@ -51,6 +51,8 @@
 |------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | 🍹 **Here’s The Drink**            | A Java-based Android app for drink exploration and management with Firebase for real-time data and notifications. | [View Repository](https://github.com/lakshmisrinidhp/HeresTheDrink) |
 | 🎵 **MMSE Final Project**          | An event management system built with Python (Flask), HTML featuring role-based dashboards, task assignments, and financial approvals.      | [View Repository](https://github.com/lakshmisrinidhp/MMSE_FINAL_PROJECT) |
+| 🍹 **Here’s The Drink**            | A Java-based Android app for drink exploration and management with Firebase for real-time data and notifications. | [View Repository](https://github.com/lakshmisrinidhp/HeresTheDrink) |
+| 🎵 **MMSE Final Project**          | An event management system built with Python (Flask), HTML featuring role-based dashboards, task assignments, and financial approvals.      | [View Repository](https://github.com/lakshmisrinidhp/MMSE_FINAL_PROJECT) |
 
 ---
 
